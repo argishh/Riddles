@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/argishh/Riddles/blob/main/Headers.png" height="200" />
+    <img src="https://github.com/argishh/Riddles/blob/main/Headers.png" height="350" />
 </p>
 
 # Riddles
